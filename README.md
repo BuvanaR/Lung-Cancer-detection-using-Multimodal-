@@ -1,4 +1,4 @@
-# Lung Cancer Detection using Machine Learning
+# Lung Cancer Detection using Multi-Modal
 
 Detecting lung cancer at an early stage—when the tumor is still small and localized—significantly improves the chances of successful treatment. Lung cancer screening is especially important for high-risk individuals, such as those with a history of smoking, even if they do not currently show any symptoms. Early detection in asymptomatic individuals opens the door to more effective and less invasive treatment options.
 
